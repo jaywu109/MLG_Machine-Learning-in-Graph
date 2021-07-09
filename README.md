@@ -3,10 +3,10 @@
 ## The course project and homeworks in MLG
 
 
-HW 1: Implementation of DrBC
-HW 2: Link Predciton with Graph Neural Network
-HW 3: Recommender System 
-Final Project: Inductive Anomaly Detection with Missing Value (IAnDMV)
+HW 1: Implementation of DrBC  
+HW 2: Link Predciton with Graph Neural Network  
+HW 3: Recommender System   
+Final Project: Inductive Anomaly Detection with Missing Value (IAnDMV)  
 
 
 ## Syllabus of MLG
